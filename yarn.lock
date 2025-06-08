@@ -7092,7 +7092,7 @@ __metadata:
     postcss-values-parser: 2.0.1
     prettier: 3.0.0
     pretty-bytes: 6.1.1
-    regexp-util: 2.0.0
+    regexp-util: 2.0.3
     remark-footnotes: 2.0.0
     remark-math: 3.0.1
     remark-parse: 8.0.3
@@ -7289,12 +7289,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regexp-util@npm:2.0.0, regexp-util@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "regexp-util@npm:2.0.0"
-  dependencies:
-    tslib: ^2.6.0
-  checksum: 00469db75d76060dff76f29feb8e2f6dcbb23d380aeb0444717b4c3554cd3d25faf63c0f741e36de18d9bca4ba8435af7245da55f038eb578afd915e9a504fe9
+"regexp-util@npm:2.0.3, regexp-util@npm:^2.0.0":
+  version: 2.0.3
+  resolution: "regexp-util@npm:2.0.3"
+  checksum: a0773184cdac8c4dd9930a1047b9e0fab537f4635eefc64cb32e87be4a5bce81d20516658a90ea1ba33abfc1c61e867164e1d3484319b5dd5db5a36f508a0f3c
   languageName: node
   linkType: hard
 
