@@ -3265,10 +3265,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"emoji-regex@npm:10.2.1":
-  version: 10.2.1
-  resolution: "emoji-regex@npm:10.2.1"
-  checksum: 1aa2d16881c56531fdfc03d0b36f5c2b6221cc4097499a5665b88b711dc3fb4d5b8804f0ca6f00c56e5dcf89bac75f0487eee85da1da77df3a33accc6ecbe426
+"emoji-regex@npm:10.4.0":
+  version: 10.4.0
+  resolution: "emoji-regex@npm:10.4.0"
+  checksum: a6d9a0e454829a52e664e049847776ee1fff5646617b06cd87de7c03ce1dfcce4102a3b154d5e9c8e90f8125bc120fc1fe114d523dddf60a8a161f26c72658d2
   languageName: node
   linkType: hard
 
@@ -7031,7 +7031,7 @@ __metadata:
     eastasianwidth: 0.2.0
     editorconfig: 0.15.3
     editorconfig-to-prettier: 1.0.0
-    emoji-regex: 10.2.1
+    emoji-regex: 10.4.0
     enquirer: 2.3.6
     esbuild: 0.18.17
     esbuild-visualizer: 0.4.1
