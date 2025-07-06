@@ -3259,9 +3259,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"editorconfig@npm:3.0.0":
-  version: 3.0.0
-  resolution: "editorconfig@npm:3.0.0"
+"editorconfig@npm:3.0.1":
+  version: 3.0.1
+  resolution: "editorconfig@npm:3.0.1"
   dependencies:
     "@one-ini/wasm": 0.2.0
     commander: ^14.0.0
@@ -3269,7 +3269,7 @@ __metadata:
     semver: ^7.7.2
   bin:
     editorconfig: bin/editorconfig
-  checksum: 2dd19181bfa30b418a3b867797a51abeb28316c7d82a973d952825277b341f36bb8434ebd41688accc251ffcffad173552378b16eab85313db0c02a91df40f0a
+  checksum: 651196b27977f7d91eb59f6630885ce0c190ab06f5e854b1893fb9ebb920a6c07b26a0f26f0bc5f31ba2bdbb2b22cc610fe3e3b7b8e0472ddb8e45a7090b108c
   languageName: node
   linkType: hard
 
@@ -7066,7 +7066,7 @@ __metadata:
     dashify: 2.0.0
     diff: 8.0.2
     eastasianwidth: 0.2.0
-    editorconfig: 3.0.0
+    editorconfig: 3.0.1
     editorconfig-to-prettier: 1.0.0
     emoji-regex: 10.2.1
     enquirer: 2.3.6
