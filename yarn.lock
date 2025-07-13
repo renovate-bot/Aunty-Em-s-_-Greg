@@ -3541,15 +3541,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"esbuild-visualizer@npm:0.4.1":
-  version: 0.4.1
-  resolution: "esbuild-visualizer@npm:0.4.1"
+"esbuild-visualizer@npm:0.7.0":
+  version: 0.7.0
+  resolution: "esbuild-visualizer@npm:0.7.0"
   dependencies:
     open: "npm:^8.4.0"
+    picomatch: "npm:^4.0.0"
     yargs: "npm:^17.6.2"
   bin:
     esbuild-visualizer: dist/bin/cli.js
-  checksum: 8/56453d4b1cc5d5e5f7e3db2131fbbad7249ff183a4a0af5582c391e05fed291cf5453413a3145f69bf01bbb02edef5af45273d6d05b27ea6c14091b3cf24d23e
+  checksum: 10c0/2b7929f4f73e44bc61f269497cf1a046b252be87104b1d8ad640545ad12a2bddc26c6491cfb31c00153d12d2655ce2dec6d922eac77dd0d8ba23ea903e1275ae
   languageName: node
   linkType: hard
 
@@ -7135,6 +7136,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"picomatch@npm:^4.0.0":
+  version: 4.0.2
+  resolution: "picomatch@npm:4.0.2"
+  checksum: 10c0/7c51f3ad2bb42c776f49ebf964c644958158be30d0a510efd5a395e8d49cb5acfed5b82c0c5b365523ce18e6ab85013c9ebe574f60305892ec3fa8eee8304ccc
+  languageName: node
+  linkType: hard
+
 "pidtree@npm:^0.3.0":
   version: 0.3.1
   resolution: "pidtree@npm:0.3.1"
@@ -7346,7 +7354,7 @@ __metadata:
     emoji-regex: "npm:10.2.1"
     enquirer: "npm:2.3.6"
     esbuild: "npm:0.18.17"
-    esbuild-visualizer: "npm:0.4.1"
+    esbuild-visualizer: "npm:0.7.0"
     escape-string-regexp: "npm:5.0.0"
     eslint: "npm:8.46.0"
     eslint-config-prettier: "npm:8.9.0"
