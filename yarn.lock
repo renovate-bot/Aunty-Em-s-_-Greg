@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -2724,10 +2724,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ci-info@npm:3.8.0, ci-info@npm:^3.2.0, ci-info@npm:^3.8.0":
-  version: 3.8.0
-  resolution: "ci-info@npm:3.8.0"
-  checksum: 8/d0a4d3160497cae54294974a7246202244fff031b0a6ea20dd57b10ec510aa17399c41a1b0982142c105f3255aff2173e5c0dd7302ee1b2f28ba3debda375098
+"ci-info@npm:3.9.0, ci-info@npm:^3.2.0, ci-info@npm:^3.8.0":
+  version: 3.9.0
+  resolution: "ci-info@npm:3.9.0"
+  checksum: 10c0/6f0109e36e111684291d46123d491bc4e7b7a1934c3a20dea28cba89f1d4a03acd892f5f6a81ed3855c38647e285a150e3c9ba062e38943bef57fee6c1554c3a
   languageName: node
   linkType: hard
 
@@ -7331,7 +7331,7 @@ __metadata:
     c8: "npm:8.0.1"
     camelcase: "npm:7.0.1"
     chalk: "npm:5.3.0"
-    ci-info: "npm:3.8.0"
+    ci-info: "npm:3.9.0"
     cjk-regex: "npm:3.0.0"
     collapse-white-space: "npm:1.0.6"
     cosmiconfig: "npm:8.2.0"
