@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -240,16 +240,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/parser@npm:7.22.7":
-  version: 7.22.7
-  resolution: "@babel/parser@npm:7.22.7"
-  bin:
-    parser: ./bin/babel-parser.js
-  checksum: 8/02209ddbd445831ee8bf966fdf7c29d189ed4b14343a68eb2479d940e7e3846340d7cc6bd654a5f3d87d19dc84f49f50a58cf9363bee249dc5409ff3ba3dab54
-  languageName: node
-  linkType: hard
-
-"@babel/parser@npm:^7.1.0, @babel/parser@npm:^7.14.7, @babel/parser@npm:^7.20.7, @babel/parser@npm:^7.22.5, @babel/parser@npm:^7.28.0":
+"@babel/parser@npm:7.28.0, @babel/parser@npm:^7.1.0, @babel/parser@npm:^7.14.7, @babel/parser@npm:^7.20.7, @babel/parser@npm:^7.22.5, @babel/parser@npm:^7.28.0":
   version: 7.28.0
   resolution: "@babel/parser@npm:7.28.0"
   dependencies:
@@ -443,7 +434,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/types@npm:7.28.1, @babel/types@npm:^7.0.0, @babel/types@npm:^7.20.7, @babel/types@npm:^7.22.5, @babel/types@npm:^7.28.0, @babel/types@npm:^7.3.3, @babel/types@npm:^7.8.3":
+"@babel/types@npm:7.28.1, @babel/types@npm:^7.0.0, @babel/types@npm:^7.20.7, @babel/types@npm:^7.22.5, @babel/types@npm:^7.28.0, @babel/types@npm:^7.3.3":
   version: 7.28.1
   resolution: "@babel/types@npm:7.28.1"
   dependencies:
@@ -7307,7 +7298,7 @@ __metadata:
     "@angular/compiler": "npm:16.1.7"
     "@babel/code-frame": "npm:7.27.1"
     "@babel/generator": "npm:7.28.0"
-    "@babel/parser": "npm:7.22.7"
+    "@babel/parser": "npm:7.28.0"
     "@babel/types": "npm:7.28.1"
     "@esbuild-plugins/node-modules-polyfill": "npm:0.2.2"
     "@glimmer/reference": "npm:0.84.3"
