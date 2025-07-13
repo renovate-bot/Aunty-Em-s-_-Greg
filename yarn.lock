@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -4720,19 +4720,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hermes-estree@npm:0.29.0":
-  version: 0.29.0
-  resolution: "hermes-estree@npm:0.29.0"
-  checksum: 8/bbb4aa2161100f773c8a33ff09e5eae13bc5cb1113d9a6122fd8359a18d8bc002d06403f7f3bf2ed9acaa86a5d5b112784d485cdd71ab8ff97306c1180d68273
+"hermes-estree@npm:0.29.1":
+  version: 0.29.1
+  resolution: "hermes-estree@npm:0.29.1"
+  checksum: 10c0/e6b01f79ba708697d61a74b871d5ebae5f863c6d782657d8e2d2256eb838f1eb86ff9c34773a81d9cc69e54be3a5059c686e0ab54a4afba903b40dde92dd0ccb
   languageName: node
   linkType: hard
 
-"hermes-parser@npm:0.29.0":
-  version: 0.29.0
-  resolution: "hermes-parser@npm:0.29.0"
+"hermes-parser@npm:0.29.1":
+  version: 0.29.1
+  resolution: "hermes-parser@npm:0.29.1"
   dependencies:
-    hermes-estree: "npm:0.29.0"
-  checksum: 8/159064cc79b9041a3f918246e4570605384a90d9734bc6494e6ab89a6711f2c3b7209e483a241a608e042cf31a1e444a739fc0af294ec534eb594d4a28f3c90c
+    hermes-estree: "npm:0.29.1"
+  checksum: 10c0/7f40d9bdfb5acaa700f333a24c644b17f5f8d0e823b1e7a9fb6dcf253a54d54716ae63c74effa023688ee4f09013c80188c40d601570fee256a44954e04c2926
   languageName: node
   linkType: hard
 
@@ -7370,7 +7370,7 @@ __metadata:
     flow-parser: "npm:0.213.1"
     get-stdin: "npm:9.0.0"
     graphql: "npm:16.7.1"
-    hermes-parser: "npm:0.29.0"
+    hermes-parser: "npm:0.29.1"
     html-element-attributes: "npm:3.2.0"
     html-styles: "npm:1.0.0"
     html-tag-names: "npm:2.1.0"
