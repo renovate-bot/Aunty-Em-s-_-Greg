@@ -2798,13 +2798,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cjk-regex@npm:3.0.0":
-  version: 3.0.0
-  resolution: "cjk-regex@npm:3.0.0"
+"cjk-regex@npm:3.3.0":
+  version: 3.3.0
+  resolution: "cjk-regex@npm:3.3.0"
   dependencies:
-    regexp-util: "npm:^2.0.0"
-    unicode-regex: "npm:^4.0.0"
-  checksum: 8/3e54d1b960e1855ec35172ce3ad9402a3d4489ea801f5ca673d838972d1d11008fe79891e863753246d519e584f09221aa40b6b4931215f5b540f23d0a60781a
+    regexp-util: "npm:^2.0.1"
+    unicode-regex: "npm:^4.1.0"
+  checksum: 10c0/903bf35c6ad59299fc78e1a85f556866a61c1122a425ff14656a9edde5b0d40a4b31b0ac4e64df9a429abddef66fffef66f65408c346e040ecbf16a66c273b52
   languageName: node
   linkType: hard
 
@@ -7468,7 +7468,7 @@ __metadata:
     camelcase: "npm:7.0.1"
     chalk: "npm:5.3.0"
     ci-info: "npm:3.8.0"
-    cjk-regex: "npm:3.0.0"
+    cjk-regex: "npm:3.3.0"
     collapse-white-space: "npm:1.0.6"
     cosmiconfig: "npm:8.2.0"
     cross-env: "npm:7.0.3"
@@ -7765,12 +7765,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regexp-util@npm:2.0.0, regexp-util@npm:^2.0.0":
+"regexp-util@npm:2.0.0":
   version: 2.0.0
   resolution: "regexp-util@npm:2.0.0"
   dependencies:
     tslib: "npm:^2.6.0"
   checksum: 8/00469db75d76060dff76f29feb8e2f6dcbb23d380aeb0444717b4c3554cd3d25faf63c0f741e36de18d9bca4ba8435af7245da55f038eb578afd915e9a504fe9
+  languageName: node
+  linkType: hard
+
+"regexp-util@npm:^2.0.0, regexp-util@npm:^2.0.1":
+  version: 2.0.3
+  resolution: "regexp-util@npm:2.0.3"
+  checksum: 10c0/1eba0b117697662c55fd94acbdb31f0aaf13cdf3a22bd80fb2ef1477d77fc33457d595e353007ad38e74c967fa9e04ff19de0c87403b2bca79d087722bb92f9f
   languageName: node
   linkType: hard
 
@@ -9021,12 +9028,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unicode-regex@npm:4.0.0, unicode-regex@npm:^4.0.0":
+"unicode-regex@npm:4.0.0":
   version: 4.0.0
   resolution: "unicode-regex@npm:4.0.0"
   dependencies:
     regexp-util: "npm:^2.0.0"
   checksum: 8/4439d588b72552547f4909e720f2a687291d467159f56194b6e47166801bd274b01ac5f9368d327690c12dcc4ba46ed23bce25ff2caeaaf44e9b11a184142006
+  languageName: node
+  linkType: hard
+
+"unicode-regex@npm:^4.1.0":
+  version: 4.1.2
+  resolution: "unicode-regex@npm:4.1.2"
+  dependencies:
+    regexp-util: "npm:^2.0.1"
+  checksum: 10c0/154d7b38aa15d8edbe3ed363c74e8daec4e6ed10885c0db6a3d8a7da2088d7df95c15e84aa84b5feda64960e1875f53a351d15ad8b252d6dc9a90d0f48b102b6
   languageName: node
   linkType: hard
 
