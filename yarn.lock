@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -4892,10 +4892,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"import-meta-resolve@npm:3.0.0":
-  version: 3.0.0
-  resolution: "import-meta-resolve@npm:3.0.0"
-  checksum: 8/d0428cd14915ee0093b995dc5bbc70bd01cc668822f52b62af98f728e5d6a08724f07e6aa9f5fae002d5eecbf6ec2cdcd379bf4869dd1b353bd080693f91e394
+"import-meta-resolve@npm:3.1.1":
+  version: 3.1.1
+  resolution: "import-meta-resolve@npm:3.1.1"
+  checksum: 10c0/75545f3f0f4f789f15b91a541b2d3e9d5b25fc9e8c60e8423cbdef4fff226f45520bd040219c63eee001878f075e82b52e436ca0d7d05e6c4fdc0348b7f251dd
   languageName: node
   linkType: hard
 
@@ -7375,7 +7375,7 @@ __metadata:
     html-styles: "npm:1.0.0"
     html-tag-names: "npm:2.1.0"
     ignore: "npm:5.2.4"
-    import-meta-resolve: "npm:3.0.0"
+    import-meta-resolve: "npm:3.1.1"
     jest: "npm:29.6.2"
     jest-docblock: "npm:30.0.0"
     jest-light-runner: "npm:0.5.0"
