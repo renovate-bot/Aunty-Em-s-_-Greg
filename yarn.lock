@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -7404,7 +7404,7 @@ __metadata:
     postcss-values-parser: "npm:7.0.0"
     prettier: "npm:3.0.0"
     pretty-bytes: "npm:6.1.1"
-    regexp-util: "npm:2.0.0"
+    regexp-util: "npm:2.0.3"
     remark-footnotes: "npm:2.0.0"
     remark-math: "npm:3.0.1"
     remark-parse: "npm:8.0.3"
@@ -7618,12 +7618,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regexp-util@npm:2.0.0, regexp-util@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "regexp-util@npm:2.0.0"
-  dependencies:
-    tslib: "npm:^2.6.0"
-  checksum: 8/00469db75d76060dff76f29feb8e2f6dcbb23d380aeb0444717b4c3554cd3d25faf63c0f741e36de18d9bca4ba8435af7245da55f038eb578afd915e9a504fe9
+"regexp-util@npm:2.0.3, regexp-util@npm:^2.0.0":
+  version: 2.0.3
+  resolution: "regexp-util@npm:2.0.3"
+  checksum: 10c0/1eba0b117697662c55fd94acbdb31f0aaf13cdf3a22bd80fb2ef1477d77fc33457d595e353007ad38e74c967fa9e04ff19de0c87403b2bca79d087722bb92f9f
   languageName: node
   linkType: hard
 
