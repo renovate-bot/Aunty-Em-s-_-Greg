@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -2619,10 +2619,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"camelcase@npm:7.0.1":
-  version: 7.0.1
-  resolution: "camelcase@npm:7.0.1"
-  checksum: 8/86ab8f3ebf08bcdbe605a211a242f00ed30d8bfb77dab4ebb744dd36efbc84432d1c4adb28975ba87a1b8be40a80fbd1e60e2f06565315918fa7350011a26d3d
+"camelcase@npm:8.0.0":
+  version: 8.0.0
+  resolution: "camelcase@npm:8.0.0"
+  checksum: 10c0/56c5fe072f0523c9908cdaac21d4a3b3fb0f608fb2e9ba90a60e792b95dd3bb3d1f3523873ab17d86d146e94171305f73ef619e2f538bd759675bc4a14b4bff3
   languageName: node
   linkType: hard
 
@@ -7329,7 +7329,7 @@ __metadata:
     benchmark: "npm:2.1.4"
     browserslist-to-esbuild: "npm:1.2.0"
     c8: "npm:8.0.1"
-    camelcase: "npm:7.0.1"
+    camelcase: "npm:8.0.0"
     chalk: "npm:5.3.0"
     ci-info: "npm:3.8.0"
     cjk-regex: "npm:3.0.0"
