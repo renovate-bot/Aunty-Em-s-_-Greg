@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
@@ -3373,9 +3373,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"editorconfig@npm:3.0.0":
-  version: 3.0.0
-  resolution: "editorconfig@npm:3.0.0"
+"editorconfig@npm:3.0.1":
+  version: 3.0.1
+  resolution: "editorconfig@npm:3.0.1"
   dependencies:
     "@one-ini/wasm": "npm:0.2.0"
     commander: "npm:^14.0.0"
@@ -3383,7 +3383,7 @@ __metadata:
     semver: "npm:^7.7.2"
   bin:
     editorconfig: bin/editorconfig
-  checksum: 8/2dd19181bfa30b418a3b867797a51abeb28316c7d82a973d952825277b341f36bb8434ebd41688accc251ffcffad173552378b16eab85313db0c02a91df40f0a
+  checksum: 10c0/b265b0dbff36a1c67942735746c22b81d56477bb1b86014c93025873ea8460cfe64a21406742239dfdf0c65488c319d9ddb16759716ccf4a98e5911494f83cac
   languageName: node
   linkType: hard
 
@@ -7341,7 +7341,7 @@ __metadata:
     dashify: "npm:2.0.0"
     diff: "npm:8.0.2"
     eastasianwidth: "npm:0.2.0"
-    editorconfig: "npm:3.0.0"
+    editorconfig: "npm:3.0.1"
     editorconfig-to-prettier: "npm:1.0.0"
     emoji-regex: "npm:10.2.1"
     enquirer: "npm:2.3.6"
