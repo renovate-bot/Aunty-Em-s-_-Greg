@@ -3222,16 +3222,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist-to-esbuild@npm:1.2.0":
-  version: 1.2.0
-  resolution: "browserslist-to-esbuild@npm:1.2.0"
+"browserslist-to-esbuild@npm:2.1.1":
+  version: 2.1.1
+  resolution: "browserslist-to-esbuild@npm:2.1.1"
   dependencies:
-    browserslist: "npm:^4.17.3"
-  checksum: 8/a6c1adc2ad8da0db23aa4f0b3c71e13561cbf61599e9acedc7890793d79aca250edb0f599095042e81587c88e87569bf3a1a68633026e81e4ac7548eb1c71b49
+    meow: "npm:^13.0.0"
+  peerDependencies:
+    browserslist: "*"
+  bin:
+    browserslist-to-esbuild: cli/index.js
+  checksum: 10c0/4d1968efd72850949d5dfa355f4663c695a8fd7b259b19cc81ecd0ed33dd37bbd327475c644de3f2beb53e737c6e511c6e84ed3e97a2ff49f117505a7707c72d
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.17.3, browserslist@npm:^4.24.0, browserslist@npm:^4.24.2, browserslist@npm:^4.25.1":
+"browserslist@npm:^4.24.0, browserslist@npm:^4.24.2, browserslist@npm:^4.25.1":
   version: 4.25.1
   resolution: "browserslist@npm:4.25.1"
   dependencies:
@@ -7789,6 +7793,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"meow@npm:^13.0.0":
+  version: 13.2.0
+  resolution: "meow@npm:13.2.0"
+  checksum: 10c0/d5b339ae314715bcd0b619dd2f8a266891928e21526b4800d49b4fba1cc3fff7e2c1ff5edd3344149fac841bc2306157f858e8c4d5eaee4d52ce52ad925664ce
+  languageName: node
+  linkType: hard
+
 "meow@npm:^8.0.0":
   version: 8.1.2
   resolution: "meow@npm:8.1.2"
@@ -9036,7 +9047,7 @@ __metadata:
     angular-estree-parser: "npm:13.0.1"
     angular-html-parser: "npm:4.0.1"
     benchmark: "npm:2.1.4"
-    browserslist-to-esbuild: "npm:1.2.0"
+    browserslist-to-esbuild: "npm:2.1.1"
     c8: "npm:10.1.3"
     camelcase: "npm:8.0.0"
     chalk: "npm:5.3.0"
