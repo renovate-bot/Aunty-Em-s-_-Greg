@@ -398,17 +398,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/types@npm:7.28.1":
-  version: 7.28.1
-  resolution: "@babel/types@npm:7.28.1"
-  dependencies:
-    "@babel/helper-string-parser": "npm:^7.27.1"
-    "@babel/helper-validator-identifier": "npm:^7.27.1"
-  checksum: 8/da49a23f86e36f4e4d996a648949a97b9387bae4d1fed747e9fd4bf0dd2a6d11302b6f70f2d00fe58dc12e090f47792596ee76e8def1c52f25d6806cd3a32d7f
-  languageName: node
-  linkType: hard
-
-"@babel/types@npm:^7.0.0, @babel/types@npm:^7.20.7, @babel/types@npm:^7.27.1, @babel/types@npm:^7.28.0, @babel/types@npm:^7.28.2, @babel/types@npm:^7.3.3, @babel/types@npm:^7.8.3":
+"@babel/types@npm:7.28.2, @babel/types@npm:^7.0.0, @babel/types@npm:^7.20.7, @babel/types@npm:^7.27.1, @babel/types@npm:^7.28.0, @babel/types@npm:^7.28.2, @babel/types@npm:^7.3.3, @babel/types@npm:^7.8.3":
   version: 7.28.2
   resolution: "@babel/types@npm:7.28.2"
   dependencies:
@@ -8386,7 +8376,7 @@ __metadata:
     "@babel/code-frame": "npm:7.27.1"
     "@babel/generator": "npm:7.28.0"
     "@babel/parser": "npm:7.22.7"
-    "@babel/types": "npm:7.28.1"
+    "@babel/types": "npm:7.28.2"
     "@esbuild-plugins/node-modules-polyfill": "npm:0.2.2"
     "@glimmer/reference": "npm:0.94.8"
     "@glimmer/syntax": "npm:0.94.9"
