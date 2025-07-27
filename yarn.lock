@@ -3615,7 +3615,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eastasianwidth@npm:0.2.0, eastasianwidth@npm:^0.2.0":
+"eastasianwidth@npm:0.3.0":
+  version: 0.3.0
+  resolution: "eastasianwidth@npm:0.3.0"
+  checksum: 10c0/ad232dbc684b66127af4c2393d0157cb4f00c8b66dc6175476e835fa78fb575d147096db46f58ab97c92704ec05e6eff8093c73be0e3f6c8ccdbbcd99a669695
+  languageName: node
+  linkType: hard
+
+"eastasianwidth@npm:^0.2.0":
   version: 0.2.0
   resolution: "eastasianwidth@npm:0.2.0"
   checksum: 8/7d00d7cd8e49b9afa762a813faac332dee781932d6f2c848dc348939c4253f1d4564341b7af1d041853bc3f32c2ef141b58e0a4d9862c17a7f08f68df1e0f1ed
@@ -7654,7 +7661,7 @@ __metadata:
     css-units-list: "npm:2.0.1"
     dashify: "npm:2.0.0"
     diff: "npm:8.0.2"
-    eastasianwidth: "npm:0.2.0"
+    eastasianwidth: "npm:0.3.0"
     editorconfig: "npm:3.0.1"
     editorconfig-to-prettier: "npm:1.0.0"
     emoji-regex: "npm:10.4.0"
