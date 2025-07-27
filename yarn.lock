@@ -3435,10 +3435,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-units-list@npm:2.0.1":
-  version: 2.0.1
-  resolution: "css-units-list@npm:2.0.1"
-  checksum: 8/584c5fd4e2915042f5348ebfbf49dff79d9b3fab495e29e8576a9fe3a6f5cfd42e278f5d9a64cf7c10de8d05082202ad00b26b1f65b72f76c05643214ba06eb8
+"css-units-list@npm:2.1.0":
+  version: 2.1.0
+  resolution: "css-units-list@npm:2.1.0"
+  checksum: 10c0/826a5af46be4dddee9ac56ace5bd8afac7b954d7314dcb098282f1482aeedb436f81ae0001fb48b127265be09861696efd6f0a712cd32b4bb35c1d4e6e089748
   languageName: node
   linkType: hard
 
@@ -6517,7 +6517,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"magic-string@npm:0.30.17":
+"magic-string@npm:0.30.17, magic-string@npm:~0.30.0":
   version: 0.30.17
   resolution: "magic-string@npm:0.30.17"
   dependencies:
@@ -6532,15 +6532,6 @@ __metadata:
   dependencies:
     sourcemap-codec: "npm:^1.4.8"
   checksum: 8/9a0e55a15c7303fc360f9572a71cffba1f61451bc92c5602b1206c9d17f492403bf96f946dfce7483e66822d6b74607262e24392e87b0ac27b786e69a40e9b1a
-  languageName: node
-  linkType: hard
-
-"magic-string@npm:~0.30.0":
-  version: 0.30.17
-  resolution: "magic-string@npm:0.30.17"
-  dependencies:
-    "@jridgewell/sourcemap-codec": "npm:^1.5.0"
-  checksum: 10c0/16826e415d04b88378f200fe022b53e638e3838b9e496edda6c0e086d7753a44a6ed187adc72d19f3623810589bf139af1a315541cd6a26ae0771a0193eaf7b8
   languageName: node
   linkType: hard
 
@@ -7671,7 +7662,7 @@ __metadata:
     cosmiconfig: "npm:8.3.6"
     cross-env: "npm:7.0.3"
     cspell: "npm:9.2.0"
-    css-units-list: "npm:2.0.1"
+    css-units-list: "npm:2.1.0"
     dashify: "npm:2.0.0"
     diff: "npm:8.0.2"
     eastasianwidth: "npm:0.3.0"
