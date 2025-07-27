@@ -3009,7 +3009,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^5.2.0, chalk@npm:^5.3.0, chalk@npm:^5.4.1":
+"chalk@npm:^5.2.0, chalk@npm:^5.4.1":
   version: 5.4.1
   resolution: "chalk@npm:5.4.1"
   checksum: 10c0/b23e88132c702f4855ca6d25cb5538b1114343e41472d5263ee8a37cccfccd9c4216d111e1097c6a27830407a1dc81fecdf2a56f2c63033d4dbbd88c10b0dcef
@@ -8020,7 +8020,7 @@ __metadata:
     typescript: "npm:5.1.6"
     unicode-regex: "npm:4.1.2"
     unified: "npm:11.0.5"
-    vnopts: "npm:2.0.0"
+    vnopts: "npm:2.0.2"
     wcwidth: "npm:1.0.1"
     yaml-unist-parser: "npm:2.0.5"
   bin:
@@ -9793,14 +9793,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vnopts@npm:2.0.0":
-  version: 2.0.0
-  resolution: "vnopts@npm:2.0.0"
+"vnopts@npm:2.0.2":
+  version: 2.0.2
+  resolution: "vnopts@npm:2.0.2"
   dependencies:
-    chalk: "npm:^5.3.0"
     leven: "npm:^4.0.0"
-    tslib: "npm:^2.6.0"
-  checksum: 8/3abf34620c6d5f99ed9e9b461feb7f263724f3ab09ac2066d55aa9eea8f13267f9f54205ed032a9a84bac49510370935db9f611b341587989969a8f25b543901
+    picocolors: "npm:^1.1.1"
+  checksum: 10c0/44e9d12839e2d0df01f1902cadf8311b996d1b9589ee90cd636da0cddffa93ec3fdc169cbedc309fd89358e8680ec48407cbd36e40ef92e29f230c38a64398ea
   languageName: node
   linkType: hard
 
