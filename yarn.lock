@@ -3101,13 +3101,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cjk-regex@npm:3.0.0":
-  version: 3.0.0
-  resolution: "cjk-regex@npm:3.0.0"
+"cjk-regex@npm:3.3.0":
+  version: 3.3.0
+  resolution: "cjk-regex@npm:3.3.0"
   dependencies:
-    regexp-util: "npm:^2.0.0"
-    unicode-regex: "npm:^4.0.0"
-  checksum: 8/3e54d1b960e1855ec35172ce3ad9402a3d4489ea801f5ca673d838972d1d11008fe79891e863753246d519e584f09221aa40b6b4931215f5b540f23d0a60781a
+    regexp-util: "npm:^2.0.1"
+    unicode-regex: "npm:^4.1.0"
+  checksum: 10c0/903bf35c6ad59299fc78e1a85f556866a61c1122a425ff14656a9edde5b0d40a4b31b0ac4e64df9a429abddef66fffef66f65408c346e040ecbf16a66c273b52
   languageName: node
   linkType: hard
 
@@ -8400,7 +8400,7 @@ __metadata:
     camelcase: "npm:8.0.0"
     chalk: "npm:5.3.0"
     ci-info: "npm:3.9.0"
-    cjk-regex: "npm:3.0.0"
+    cjk-regex: "npm:3.3.0"
     collapse-white-space: "npm:1.0.6"
     cosmiconfig: "npm:9.0.0"
     cross-env: "npm:10.0.0"
@@ -8713,7 +8713,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regexp-util@npm:2.0.3, regexp-util@npm:^2.0.0, regexp-util@npm:^2.0.1":
+"regexp-util@npm:2.0.3, regexp-util@npm:^2.0.1":
   version: 2.0.3
   resolution: "regexp-util@npm:2.0.3"
   checksum: 10c0/1eba0b117697662c55fd94acbdb31f0aaf13cdf3a22bd80fb2ef1477d77fc33457d595e353007ad38e74c967fa9e04ff19de0c87403b2bca79d087722bb92f9f
@@ -10112,7 +10112,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unicode-regex@npm:4.1.2, unicode-regex@npm:^4.0.0":
+"unicode-regex@npm:4.1.2, unicode-regex@npm:^4.1.0":
   version: 4.1.2
   resolution: "unicode-regex@npm:4.1.2"
   dependencies:
