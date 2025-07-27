@@ -5133,10 +5133,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ignore@npm:5.2.4, ignore@npm:^5.2.0, ignore@npm:^5.2.4":
-  version: 5.2.4
-  resolution: "ignore@npm:5.2.4"
-  checksum: 8/3d4c309c6006e2621659311783eaea7ebcd41fe4ca1d78c91c473157ad6666a57a2df790fe0d07a12300d9aac2888204d7be8d59f9aaf665b1c7fcdb432517ef
+"ignore@npm:5.3.2, ignore@npm:^5.2.0, ignore@npm:^5.2.4":
+  version: 5.3.2
+  resolution: "ignore@npm:5.3.2"
+  checksum: 10c0/f9f652c957983634ded1e7f02da3b559a0d4cc210fca3792cb67f1b153623c9c42efdc1c4121af171e295444459fc4a9201101fb041b1104a3c000bccb188337
   languageName: node
   linkType: hard
 
@@ -7689,7 +7689,7 @@ __metadata:
     html-element-attributes: "npm:3.4.0"
     html-styles: "npm:1.0.0"
     html-tag-names: "npm:2.1.0"
-    ignore: "npm:5.2.4"
+    ignore: "npm:5.3.2"
     import-meta-resolve: "npm:3.0.0"
     jest: "npm:29.6.2"
     jest-docblock: "npm:30.0.0"
