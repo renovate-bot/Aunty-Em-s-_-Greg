@@ -7725,7 +7725,7 @@ __metadata:
     prettier: "npm:3.6.2"
     pretty-bytes: "npm:6.1.1"
     regexp-util: "npm:2.0.0"
-    remark-footnotes: "npm:2.0.0"
+    remark-footnotes: "npm:5.0.0"
     remark-math: "npm:3.0.1"
     remark-parse: "npm:8.0.3"
     rollup-plugin-license: "npm:3.0.1"
@@ -7987,10 +7987,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remark-footnotes@npm:2.0.0":
-  version: 2.0.0
-  resolution: "remark-footnotes@npm:2.0.0"
-  checksum: 8/f2f87ffd6fe25892373c7164d6584a7cb03ab0ea4f186af493a73df519e24b72998a556e7f16cb996f18426cdb80556b95ff252769e252cf3ccba0fd2ca20621
+"remark-footnotes@npm:5.0.0":
+  version: 5.0.0
+  resolution: "remark-footnotes@npm:5.0.0"
+  checksum: 10c0/37d8f35f49c78f64763c2549da865b783dc6d4d495da8eb6b43eec358bffc73b39f70eb2096e193ac761b59c2479498af45d6bc9c2988e8417bda9ddac597c43
   languageName: node
   linkType: hard
 
