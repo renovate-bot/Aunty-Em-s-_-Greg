@@ -5446,10 +5446,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"html-element-attributes@npm:3.4.0":
-  version: 3.4.0
-  resolution: "html-element-attributes@npm:3.4.0"
-  checksum: 10c0/a17de0556ca3c720f00f95db6e9d7215a72dafe2698ca6d69a8dcc211ae1e37bf7367e3eedef61c2e798b26dfd989da25f07168fb0c6b585b3b6b9a40d637090
+"html-element-attributes@npm:3.5.0":
+  version: 3.5.0
+  resolution: "html-element-attributes@npm:3.5.0"
+  checksum: 10c0/b48a586fa3868e5a00b600bed1fcd56e12537f4bcdc073d52eb124921d48a2527a403b34088ed5b543d89d3dbf851dfe780fa2911e9f88691bc2f9a69dece988
   languageName: node
   linkType: hard
 
@@ -8507,7 +8507,7 @@ __metadata:
     get-stdin: "npm:9.0.0"
     graphql: "npm:16.11.0"
     hermes-parser: "npm:0.30.0"
-    html-element-attributes: "npm:3.4.0"
+    html-element-attributes: "npm:3.5.0"
     html-styles: "npm:1.0.0"
     html-tag-names: "npm:2.1.0"
     ignore: "npm:7.0.5"
