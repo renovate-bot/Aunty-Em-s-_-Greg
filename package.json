@@ -119,7 +119,7 @@
     "c8": "10.1.3",
     "cross-env": "10.0.0",
     "cspell": "9.2.0",
-    "enquirer": "2.3.6",
+    "enquirer": "2.4.1",
     "esbuild": "0.18.17",
     "esbuild-visualizer": "0.7.0",
     "eslint": "9.32.0",
