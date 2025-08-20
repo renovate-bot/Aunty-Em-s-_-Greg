@@ -3177,10 +3177,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:5.3.0":
-  version: 5.3.0
-  resolution: "chalk@npm:5.3.0"
-  checksum: 8/623922e077b7d1e9dedaea6f8b9e9352921f8ae3afe739132e0e00c275971bdd331268183b2628cf4ab1727c45ea1f28d7e24ac23ce1db1eb653c414ca8a5a80
+"chalk@npm:5.6.0, chalk@npm:^5.2.0, chalk@npm:^5.4.1":
+  version: 5.6.0
+  resolution: "chalk@npm:5.6.0"
+  checksum: 10c0/f8558fc12fd9805f167611803b325b0098bbccdc9f1d3bafead41c9bac61f263357f3c0df0cbe28bc2fd5fca3edcf618b01d6771a5a776b4c15d061482a72b23
   languageName: node
   linkType: hard
 
@@ -3191,13 +3191,6 @@ __metadata:
     ansi-styles: "npm:^4.1.0"
     supports-color: "npm:^7.1.0"
   checksum: 8/fe75c9d5c76a7a98d45495b91b2172fa3b7a09e0cc9370e5c8feb1c567b85c4288e2b3fded7cfdd7359ac28d6b3844feb8b82b8686842e93d23c827c417e83fc
-  languageName: node
-  linkType: hard
-
-"chalk@npm:^5.2.0, chalk@npm:^5.4.1":
-  version: 5.4.1
-  resolution: "chalk@npm:5.4.1"
-  checksum: 10c0/b23e88132c702f4855ca6d25cb5538b1114343e41472d5263ee8a37cccfccd9c4216d111e1097c6a27830407a1dc81fecdf2a56f2c63033d4dbbd88c10b0dcef
   languageName: node
   linkType: hard
 
@@ -8466,7 +8459,7 @@ __metadata:
     browserslist-to-esbuild: "npm:2.1.1"
     c8: "npm:10.1.3"
     camelcase: "npm:8.0.0"
-    chalk: "npm:5.3.0"
+    chalk: "npm:5.6.0"
     ci-info: "npm:4.3.0"
     cjk-regex: "npm:3.3.0"
     collapse-white-space: "npm:1.0.6"
